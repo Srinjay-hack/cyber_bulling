@@ -7,5 +7,5 @@
  - lematizer=WordNetLemmatizer()
  - Doing Morphological Analysis.
  - Actually, lemmatization is preferred over Stemming because lemmatization does morphological analysis of the words.
-# After Test
+# After Analysis MOST WORDS USED
 ![](images/download.png)
